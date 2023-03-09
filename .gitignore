@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UE5MAR/Binaries/Win64/UnrealEditor-UE5MAR.pdb
